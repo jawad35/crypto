@@ -1,0 +1,95 @@
+.home {
+  background-color: #e9f1f5;
+}
+.section-1 {
+  background-color: #4150a6;
+  height: 100%;
+  margin-left: 0%;
+}
+.left-side .play {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: #f5a2c0;
+  color: white;
+  font-weight: 600;
+  box-shadow: 1px 3px 6px #f77ca9;
+}
+.left-side .btn-area {
+  margin-top: 80px;
+}
+.numbering {
+  color: white;
+}
+.numbering i {
+  font-size: 30px;
+  margin: 5px;
+}
+.section-2 .logo {
+  margin: 30px;
+}
+.section-2 .logo .left-side-text,
+.right-side-text {
+  border-radius: 20px;
+  box-shadow: 2px 8px 10px gray;
+  background-color: white;
+  padding: 15px;
+  margin: 10px;
+  color: #4150a6;
+}
+.section-2 .sec2-text {
+  margin-top: 100px;
+  padding: 20px;
+  margin: 20px;
+}
+.section-2 .sec2-text p {
+  width: 70%;
+  color: #4150a6;
+}
+.section-2 h2 {
+  color: #4150a6;
+  font-weight: 500;
+}
+.section-3 {
+  position: relative;
+  margin: 50px;
+}
+.section-3 .map-text {
+  position: absolute;
+  top: 60%;
+  left: 0;
+  width: 20%;
+  z-index: 100;
+}
+
+.section-4 .listing {
+  color: #4150a6;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 15%;
+}
+
+.section-4 i {
+  font-size: 50px;
+  color: #4150a6;
+}
+.section-4 .logos {
+  margin: 80px auto;
+}
+
+.section-5 .goal-text {
+  padding-left: 20%;
+  padding: 10%;
+}
+.section-5 h2,
+.section-5 i {
+  color: #4150a6;
+  font-weight: 700;
+}
+.section-5 p {
+  color: #4b3bf7;
+}
+.section-5 .goal-logo {
+  padding-left: 15%;
+  padding-top: 5%;
+}
