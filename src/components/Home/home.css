@@ -6,7 +6,7 @@
   height: 100%;
   margin-left: 0%;
 }
-.left-side .play {
+.play {
   border: none;
   padding: 5px 10px;
   border-radius: 10px;
@@ -22,19 +22,16 @@
   color: white;
 }
 .numbering i {
-  font-size: 30px;
-  margin: 5px;
+  font-size: 25px;
+  margin: 2px;
 }
-.section-2 .logo {
-  margin: 30px;
-}
+
 .section-2 .logo .left-side-text,
 .right-side-text {
   border-radius: 20px;
   box-shadow: 2px 8px 10px gray;
   background-color: white;
   padding: 15px;
-  margin: 10px;
   color: #4150a6;
 }
 .section-2 .sec2-text {
@@ -58,7 +55,6 @@
   position: absolute;
   top: 60%;
   left: 0;
-  width: 20%;
   z-index: 100;
 }
 
@@ -92,4 +88,26 @@
 .section-5 .goal-logo {
   padding-left: 15%;
   padding-top: 5%;
+}
+.section-6 {
+  margin: 30px auto;
+}
+.section-6 h2 {
+  color: #4150a6;
+  font-weight: 700;
+  margin: 20px auto;
+}
+.footer-text p a {
+  color: white;
+}
+.footer-text p i {
+  font-size: 20px;
+  margin: 5px;
+}
+
+@media (max-width: 768px) {
+  .section-1 h1 {
+    text-align: center;
+    padding-right: 80px;
+  }
 }
